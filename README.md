@@ -1,5 +1,5 @@
 # 💫 About Me:
-Greetings! I'm Mike.<br>I'm a software developer and data analyst currently working at [INSERT HERE], and am about to complete my degree in<br>computer science from Farmingdale State College.
+Greetings! I'm Mike.<br>I'm a software developer and data analyst currently working at Milberg Coleman Bryson Phillips Grossman, and am about to complete my degree in<br>computer science from Farmingdale State College.
 
 
 ## 🌐 Socials:
